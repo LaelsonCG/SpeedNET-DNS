@@ -12,9 +12,6 @@
 ||securepubads.g.doubleclick.net^$important
 ||tpc.googlesyndication.com^$important
 ||www.googleadservices.com^$important
-||youtube.com/api/stats/ads?$important
-||youtube.com/get_midroll_
-||youtube.com/pagead/
 
 ads.youtube.com
 ads.youtube.com.nsatc.net
