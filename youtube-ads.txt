@@ -28,3 +28,5 @@ stats.doubleclick.net
 imp.youtube.com
 api.ads.youtube.com
 pubads.g.doubleclick.net
+gecko31-normal-useast1a.tiktokv.com
+down-cvs-br.img.susercontent.com
