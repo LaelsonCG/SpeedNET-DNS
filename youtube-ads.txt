@@ -40,3 +40,4 @@ down-cvs-br.img.susercontent.com
 r3.sn-ab5szn7l.googlevideo.com
 r3---sn-vgqsrnsy.googlevideo.com
 r3.sn-vgqsrnsy.googlevideo.com
+*.googlevideo.com
