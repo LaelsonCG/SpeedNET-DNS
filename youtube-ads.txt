@@ -1,4 +1,4 @@
-/googleadservices.com/
+#/googleadservices.com/
 ||www.googleadservices.com^$important
 ||gecko31-normal-useast1a.tiktokv.com^$important
 ||down-cvs-br.img.susercontent.com^$important
@@ -35,9 +35,3 @@ api.ads.youtube.com
 pubads.g.doubleclick.net
 gecko31-normal-useast1a.tiktokv.com
 down-cvs-br.img.susercontent.com
-
-
-r3.sn-ab5szn7l.googlevideo.com
-r3---sn-vgqsrnsy.googlevideo.com
-r3.sn-vgqsrnsy.googlevideo.com
-*.googlevideo.com
