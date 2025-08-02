@@ -1,4 +1,4 @@
-#/googleadservices.com/
+/googleadservices.com/
 ||www.googleadservices.com^$important
 ||gecko31-normal-useast1a.tiktokv.com^$important
 ||down-cvs-br.img.susercontent.com^$important
@@ -9,6 +9,7 @@ lh3.googleusercontent.com
 lh4.googleusercontent.com
 lh5.googleusercontent.com
 lh6.googleusercontent.com
+||doubleclick.net^
 googleads.g.doubleclick.net
 www.googleadservices.com
 googleadservices.com
