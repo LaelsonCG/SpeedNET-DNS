@@ -3,7 +3,6 @@
 ||doubleclick.net^
 ||doubleclick.net^$important
 ||down-cvs-br.img.susercontent.com^$important
-||gecko31-normal-useast1a.tiktokv.com^$important
 ||googleadservices.com^$important
 ||googleads.g.doubleclick.net^$important
 ||pagead.l.doubleclick.net^$important
@@ -22,17 +21,11 @@ gvt1.com
 gvt2.com
 gvt3.com
 imp.youtube.com
-lh1.googleusercontent.com
-lh2.googleusercontent.com
-lh3.googleusercontent.com
-lh4.googleusercontent.com
-lh5.googleusercontent.com
-lh6.googleusercontent.com
+||googleusercontent.com^
 match.adsrvr.org
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pubads.g.doubleclick.net
-search22-normal-c-useast1a.tiktokv.com
 securepubads.g.doubleclick.net
 stats.doubleclick.net
 tpc.googlesyndication.com
