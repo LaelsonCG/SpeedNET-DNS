@@ -33,7 +33,6 @@ tpc.googlesyndication.com
 googleads.g.doubleclick.net
 
 ||googleadservices.com^$important
-||tiktokv.com^$important
 ||down-cvs-br.img.susercontent.com^$important
 ||instantmessaging-pa-jms-us.googleapis.com^$important
 ||rr4---sn-bg0s7nlr.googlevideo.com^$important
