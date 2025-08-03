@@ -29,15 +29,11 @@ pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 stats.doubleclick.net
 tpc.googlesyndication.com
-||googletagservices.com^
 googleads.g.doubleclick.net
 
 ||googleadservices.com^$important
-||down-cvs-br.img.susercontent.com^$important
 ||instantmessaging-pa-jms-us.googleapis.com^$important
-||rr4---sn-bg0s7nlr.googlevideo.com^$important
 ||rr4---sn-bg0e6n7d.googlevideo.com^$important
 ||occ-0-3262-1740.1.nflxso.net^$important
-||mtalk.google.com^$important
 ||path1.xtracloud.net^$important
 ||ip.parrotdns.com^$important
